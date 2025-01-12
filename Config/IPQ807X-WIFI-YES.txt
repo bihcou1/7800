@@ -23,4 +23,4 @@ CONFIG_DEFAULT_kmod-phy-qcom-ipq806x-usb=y
 CONFIG_arm=y
 CONFIG_arm_v7=y
 CONFIG_ARCH="arm"
-CONFIG_PACKAGE_kmod-qca-nss-drv=y
+
